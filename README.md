@@ -1,2 +1,2 @@
-# C-Primer-Plus-6th-Edition-
-C Primer Plus sample code
+# C-Primer-Plus
+C Primer Plus (6th Edition)
